@@ -1,7 +1,8 @@
 # Friday
 ADSS class
 
-# Subtitle
-
 $x^2$
+
+new changes
+
 
